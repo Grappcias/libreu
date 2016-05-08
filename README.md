@@ -5,6 +5,8 @@ LOGO
 
 # LibreU
 
+[![Join the chat at https://gitter.im/ciegovolador/libreu](https://badges.gitter.im/ciegovolador/libreu.svg)](https://gitter.im/ciegovolador/libreu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Libre U es una universidad libre, hecho con software y contenidos libre. Eventualmente se convertirá en una DAO.
 
 
