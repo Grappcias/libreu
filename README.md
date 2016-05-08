@@ -3,7 +3,7 @@ Libre U es una universidad libre, hecho con software y contenidos libre. Eventua
 
 
 Paleta de colores
-
+```
 #F6F6F6
 #BCC3BB
 #A9B0AA
@@ -11,9 +11,12 @@ Paleta de colores
 #5D615E
 #3E4140
 #0B0E0D
-
+```
 
 Software
 Open edX
 https://github.com/edx/edx-platform
 
+LOGO
+
+https://www.dropbox.com/s/f1pkqnpkh4dh2lv/LibreU%20logo.png?dl=1
