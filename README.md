@@ -18,5 +18,5 @@ Open edX
 https://github.com/edx/edx-platform
 
 LOGO
+![Libre U](https://www.dropbox.com/s/f1pkqnpkh4dh2lv/LibreU%20logo.png?dl=1 "LOGO")
 
-https://www.dropbox.com/s/f1pkqnpkh4dh2lv/LibreU%20logo.png?dl=1
